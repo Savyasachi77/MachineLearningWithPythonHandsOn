@@ -1,4 +1,4 @@
-# MachineLearningWithPythonHandsOn
+# Machine Learning With Python Hands-On
 Data and code repository for our book Machine Learning with Python: A Hands-On Introduction
 
 
